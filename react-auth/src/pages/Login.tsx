@@ -1,7 +1,8 @@
+// Import AuthCard component — contains the login UI (form, titles, and buttons)
+import AuthCard from "../components/Login/AuthCard";
 
 // Import React for component creation
 import React from "react";
-import AuthCard from "../components/Login/AuthCard";
 import { useLogin } from "../hooks/Login/useLogin";
 
 // --------------------------------------------

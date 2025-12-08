@@ -72,4 +72,4 @@ const NotFound: React.FC = () => {
 }
 
 // Export the component for routing usage
-export default NotFound
+export default NotFound;
